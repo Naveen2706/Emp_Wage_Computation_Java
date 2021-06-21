@@ -21,6 +21,8 @@ public class EmpWageComputation{
 
 		default:
 			System.out.println("absent");
+		break;
+
 		}
 	}
 }
